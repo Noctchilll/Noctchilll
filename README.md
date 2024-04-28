@@ -43,8 +43,6 @@ Hello! I'm Nathan Aryasatya, a university student at Telkom University pursuing 
 
 #### Currently learning📖
 <div id="badges" align="left">
-    <img src="https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white"/>
-  </a>
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   </a>
 
